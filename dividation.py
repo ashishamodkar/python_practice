@@ -1,0 +1,5 @@
+print("Enter the d1")
+d1=input()
+print("Enter the d2")
+d2=input()
+print("division is : ", int(d1) / int(d2))
