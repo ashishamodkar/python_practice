@@ -1,0 +1,6 @@
+print("insurt the value : ")
+insurt=input( )
+list =insurt.split(",")
+tuple = tuple(list)
+print('List : ',list)
+print('Tuple : ',tuple)
