@@ -1,5 +1,5 @@
-ch=1
-while(ch<4):
+a=1
+while(a<=6):
     a=int(input("Enter the Number"))
     if a==20:
         print("you Win")
@@ -11,4 +11,4 @@ while(ch<4):
     else:
         print("you loose")
         continue
-    ch= ch + 1
+    a= a + 1
